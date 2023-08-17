@@ -120,6 +120,11 @@ a{
     border-radius: 25px;
 }
 
+.btn_metod_mat:active{
+    border-color: rgb(175, 18, 18);
+    border-radius: 25px;
+}
+
 .btn_metod_mat a{
     margin-left: 8px;
     margin-right: 8px;
@@ -140,7 +145,7 @@ a{
 }
 
 .main_container{
-    background-image: url(/COK_1/content/Fon.png);
+    background-image: url(/content/Fon.png);
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -224,7 +229,7 @@ a{
 
 @media (max-width: 1580px){
     .main_container{
-        background-image: url(/COK_1/content/Fon2.png);
+        background-image: url(/content/Fon2.png);
         background-position: bottom right;
         background-repeat: no-repeat;
         background-size: contain;
@@ -368,7 +373,7 @@ a{
     }
 
     .main_container{
-        background-image: url(/COK_1/content/Fon3.png);
+        background-image: url(/content/Fon3.png);
         background-position: bottom right;
         background-repeat: no-repeat;
         background-position-x: 2;
