@@ -20,6 +20,7 @@ a{
     color: #000;
 }
 
+
 .main_container{
     position: relative;
     width: 100%;
@@ -116,7 +117,7 @@ a{
     border-color: white;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     border-radius: 25px;
 }
 
@@ -145,17 +146,19 @@ a{
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     color: white;
 }
 
-.btn_metod_mat a img{
-    margin: 5px;
-    width: 18px;
+.btn_metod_mat i{
+    margin-right: 5px;
+    height: 25px;
+    width: 20px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 }
+
 
 .main_container{
     background-image: url(/content/Fon.png);
